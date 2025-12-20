@@ -1,4 +1,26 @@
 [
-  { "id": 1, "text": "Kod yazmak sanattır.", "author": "Yazılımcı" },
-  { "id": 2, "text": "Basitlik en karmaşık haldir.", "author": "Da Vinci" }
+  {
+    "id": 1,
+    "theme": "KOLAYLIK",
+    "title": "Rabbi Yessir",
+    "text_ar": "رَبِّ يَسِّرْ وَلَا تُعَسِّرْ رَبِّ تَمِّمْ بِالْخَيْرِ",
+    "translation_tr": "Rabbim! Kolaylaştır, zorlaştırma. Rabbim, hayırla tamamla.",
+    "translation_en": "My Lord, make it easy and do not make it difficult. My Lord, let it be completed with goodness."
+  },
+  {
+    "id": 2,
+    "theme": "ŞİFA",
+    "title": "Şifa Duası",
+    "text_ar": "أَذْهِبِ الْبَاسَ رَبَّ النَّاسِ وَاشْفِ أَنْتَ الشَّافي",
+    "translation_tr": "Bu hastalığı gider ey insanların Rabbi! Şifa ver, çünkü şifa verici sensin.",
+    "translation_en": "Take away the pain, O Lord of mankind, and grant healing, for You are the Healer."
+  },
+  {
+    "id": 3,
+    "theme": "HUZUR",
+    "title": "İnşirah Suresi (Ayet 5)",
+    "text_ar": "فَإِنَّ مَعَ الْعُسْرِ يُسْرًا",
+    "translation_tr": "Elbette zorlukla beraber bir kolaylık vardır.",
+    "translation_en": "For indeed, with hardship [will be] ease."
+  }
 ]
