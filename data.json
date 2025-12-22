@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-1.jpg",
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image1.jpg",
     "theme_tr": "KOLAYLIK",
     "theme_en": "EASE",
     "title_tr": "Rabbi Yessir",
@@ -12,7 +12,7 @@
   },
   {
     "id": 2,
-    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-2.jpg",
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image2.jpg",
     "theme_tr": "TEVEKKÜL",
     "theme_en": "TRUST",
     "title_tr": "Hasbunallahu ve Ni'mel Vekil",
@@ -23,18 +23,18 @@
   },
   {
     "id": 3,
-    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-3.jpg",
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image1.jpg",
     "theme_tr": "KORUNMA",
     "theme_en": "PROTECTION",
     "title_tr": "Bismillahillezi...",
     "title_en": "In the Name of Allah...",
-    "text_ar": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ şeيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+    "text_ar": "بِسْمِ اللَّهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
     "translation_tr": "İsmiyle yerde ve gökte hiçbir şeyin zarar veremeyeceği Allah'ın adıyla. O, hakkıyla işitendir, hakkıyla bilendir.",
     "translation_en": "In the name of Allah, with Whose name nothing on earth or in the heaven can cause any harm. He is the All-Hearing, All-Knowing."
   },
   {
     "id": 4,
-    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-4.jpg",
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image2.jpg",
     "theme_tr": "DÜNYA VE AHİRET",
     "theme_en": "WORLD & HEREAFTER",
     "title_tr": "Rabbena Atina",
@@ -45,7 +45,7 @@
   },
   {
     "id": 5,
-    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-5.jpg",
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image1.jpg",
     "theme_tr": "BAĞIŞLANMA",
     "theme_en": "FORGIVENESS",
     "title_tr": "Rabbenağfirli",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-6.jpg",
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image2.jpg",
     "theme_tr": "NAMAZ",
     "theme_en": "PRAYER",
     "title_tr": "Ettehiyyatü",
@@ -67,7 +67,7 @@
   },
   {
     "id": 7,
-    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-7.jpg",
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image1.jpg",
     "theme_tr": "GÜNLÜK ADAP",
     "theme_en": "DAILY ADAB",
     "title_tr": "Tuvalete Girerken",
@@ -78,7 +78,7 @@
   },
   {
     "id": 8,
-    "image_url": "https://flowbite.s3.amazonaws.com/docs/gallery/square/image-8.jpg",
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image2.jpg",
     "theme_tr": "GÜNLÜK ADAP",
     "theme_en": "DAILY ADAB",
     "title_tr": "Tuvaletten Çıkarken",
