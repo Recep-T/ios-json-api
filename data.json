@@ -1,15 +1,15 @@
 [
   {
-    "id": 1,
-    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image1.jpg",
-    "theme_tr": "KOLAYLIK",
-    "theme_en": "EASE",
-    "title_tr": "Rabbi Yessir",
-    "title_en": "Rabbi Yessir",
-    "text_ar": "رَبِّ يَسِّرْ وَلَا تُعَسِّرْ رَبِّ تَمِّمْ بِالْخَيْرِ",
-    "translation_tr": "Rabbim! Kolaylaştır, zorlaştırma. Rabbim, hayırla tamamla.",
-    "translation_en": "My Lord, make it easy and do not make it difficult. My Lord, let it be completed with goodness."
-  },
+  "id": 1,
+  "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/regaib.jpg",
+  "theme_tr": "REGAİB KANDİLİ",
+  "theme_en": "LAYLAT AL-RAGHAIB",
+  "title_tr": "Regaib Kandili",
+  "title_en": "What can be said about the significance of the Night of Raghaib based on Bediüzzaman Said Nursi’s view that it marks the beginning of the Prophet Muhammad’s spiritual ascent?",
+  "text_ar": "Allah’ım ne olur ümmet-i Muhammed’e hayırlar ihsan eyle! Allah’ım ne olur ümmet-i Muhammed’i içine düştüğü bu sefalet ve zelillikten halas eyle! Nam-ı Celil-i İlâhiyî her yerde dalgalandır!",
+  "translation_tr": "Soru: Bediüzzaman Hazretleri Regaib gecesinin Zat-ı Ahmediye’nin (sallallahu aleyhi ve sellem) manevi terakkisinin başlangıcı, Miraç gecesinin de O’nun zirveye ulaşmasının ünvanı olduğunu söylüyor. Onun bu sözlerinden hareketle Regaib gecesinin önemiyle ilgili neler söylenebilir?\n\nCevap: Hazreti Bediüzzaman bu tespiti büyük ihtimalle manevi müşahede ve mükâşefesine dayanarak yapmıştır. Tarihî kaynaklar açısından bakıldığında bu sözün temel manasını kavramak zor olabilir. Bazı rivayetlerde Peygamber Efendimiz’in bu gecede anne karnına düştüğü ifade edilse de bu tarihî olarak doğru değildir. Bu sebeple bazı âlimler Hazreti Âmine’nin bu gecede hamile olduğunu fark etmiş olabileceğini söylemişlerdir; ancak bunu doğrulayan sahih bir rivayet yoktur.\n\nBediüzzaman’ın yaklaşımına göre Regaib gecesi, Efendimiz’in Allah’a yönelerek manevi yolculuğuna başladığı, peygamberliğe hazırlandığı ve Miraca uygun bir manevi donanım kazanmaya yöneldiği bir başlangıç noktası olarak değerlendirilebilir. Bu süreç Efendimiz’in manevi hayatında adeta ikinci bir doğuş olarak görülebilir. Daha sonra bu istidat ilahi rehberlikle zirveye taşınmış ve Miraç’la taçlandırılmıştır.\n\nÜç aylar ve bu aylardaki mübarek geceler, yapılan ibadetlerin bereketinin kat kat arttığı zaman dilimleridir. Regaib gecesi de bu yönüyle diğer gecelere göre ayrı bir kıymete sahiptir. Bu gecelerde yapılan ibadetler, kişinin istidadına göre daha fazla sevap ve manevi kazanç getirir.",
+  "translation_en": "Question: Bediüzzaman Said Nursi states that the Night of Raghaib marks the beginning of the spiritual ascent of the Person of Ahmad (peace and blessings be upon him), while the Night of Mi‘raj signifies the culmination of this ascent. Based on these words, what can be said about the significance of the Night of Raghaib?\n\nAnswer: Bediüzzaman most likely made this assessment based on his spiritual insight and inner perception. When viewed purely from a historical perspective, it may be difficult to fully grasp the essence of this statement. Although some reports suggest that the Prophet Muhammad (peace and blessings be upon him) was conceived on this night, such claims are not historically accurate. Some scholars therefore suggested that his mother, Lady Aminah, may have become aware of her pregnancy on this night; however, there is no authentic narration confirming this view.\n\nFrom Bediüzzaman’s perspective, the Night of Raghaib may be understood as the moment when the Prophet turned toward God with deep longing, began his spiritual journey, and entered a period of preparation for prophethood, gradually acquiring the spiritual readiness necessary for the Mi‘raj. In this sense, it can be regarded as a second birth and a new beginning in his spiritual life. This latent potential was later perfected through divine guidance and ultimately crowned with the Mi‘raj.\n\nThe sacred months and their blessed nights are times when the rewards of worship are greatly multiplied. In this respect, the Night of Raghaib holds a distinct value among other nights. Acts of worship performed during such times gain increased depth and blessing, and each believer benefits from them according to their own spiritual capacity."
+},
   {
     "id": 2,
     "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image2.jpg",
@@ -86,5 +86,16 @@
     "text_ar": "غُفْرَانَكَ",
     "translation_tr": "Allah'ım senin bağışlamanı dilerim.",
     "translation_en": "I ask You (Allah) for forgiveness."
+  },
+  {
+    "id": 9,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image1.jpg",
+    "theme_tr": "KOLAYLIK",
+    "theme_en": "EASE",
+    "title_tr": "Rabbi Yessir",
+    "title_en": "Rabbi Yessir",
+    "text_ar": "رَبِّ يَسِّرْ وَلَا تُعَسِّرْ رَبِّ تَمِّمْ بِالْخَيْرِ",
+    "translation_tr": "Rabbim! Kolaylaştır, zorlaştırma. Rabbim, hayırla tamamla.",
+    "translation_en": "My Lord, make it easy and do not make it difficult. My Lord, let it be completed with goodness."
   }
 ]
