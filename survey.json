@@ -25,14 +25,7 @@
       "id": "q3",
       "type": "text",
       "tr": "Eklemek istediğiniz başka bir şey var mı?",
-      "en": "Anything else you want to share?"
-    },
-    {
-      "id": "q4_share",
-      "type": "share_request",
-      "tr": "ISRA'yı sosyal medyada paylaşarak bize destek olur musunuz?",
-      "en": "Would you mind sharing ISRA on social media to support us?",
-      "active_on_rating": 5
+      "en": "Anything else you want to share with us?"
     }
   ]
 }
