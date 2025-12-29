@@ -12,8 +12,8 @@
     {
       "id": "q2",
       "type": "choice",
-      "tr": "Hangi özelliğe öncelik verelim?",
-      "en": "Which feature should we prioritize?",
+      "tr": "Hangi özelliklerin olmasını istersiniz? (Öncelik verelim)",
+      "en": "Which features would you like us to prioritize for you?",
       "options": [
         "Global Azan Voices (Madinah, Egypt, etc.)",
         "Islamic Daily Insights & Articles",
