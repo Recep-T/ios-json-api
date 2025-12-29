@@ -1,31 +1,31 @@
 {
   "active": true,
-  "survey_id": "isra_launch_survey_v1",
+  "survey_id": "isra_roadmap_v1",
   "show_delay": 5000,
   "questions": [
     {
       "id": "q1",
       "type": "stars",
-      "tr": "ISRA deneyiminiz nasıl gidiyor? ⭐",
-      "en": "How is your ISRA experience so far? ⭐"
+      "tr": "ISRA deneyiminiz nasıl? ⭐",
+      "en": "How is your ISRA experience? ⭐"
     },
     {
       "id": "q2",
       "type": "choice",
-      "tr": "Bir sonraki güncellemede ne istersiniz?",
-      "en": "What would you like in the next update?",
+      "tr": "Hangi özelliğe öncelik verelim?",
+      "en": "Which feature should we prioritize?",
       "options": [
-        "Home Screen Widget",
-        "Apple Watch App",
-        "More Azan Sounds",
-        "Community Groups"
+        "Global Azan Voices (Madinah, Egypt, etc.)",
+        "Islamic Daily Insights & Articles",
+        "Hijri Calendar & Special Days",
+        "Home Screen Prayer Widgets"
       ]
     },
     {
       "id": "q3",
       "type": "text",
-      "tr": "Bize söylemek istediğiniz başka bir şey var mı?",
-      "en": "Anything else you would like to share with us?"
+      "tr": "Eklemek istediğiniz başka bir şey var mı?",
+      "en": "Anything else you want to share?"
     }
   ]
 }
