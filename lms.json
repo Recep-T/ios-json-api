@@ -1,9 +1,7 @@
 {
   "active": true,
-  "show_delay": 2000,
-  "auto_hide_ms": 15000,
-  "title_en": "Track your team's Quran & progress 📊",
-  "subtitle_en": "Open ISRA LMS dashboard to manage students.",
-  "button_text_en": "Open LMS",
+  "title_en": "Join ISRA LMS 🎓",
+  "subtitle_en": "Manage your students and teams.",
+  "button_text_en": "Open",
   "url": "https://isra-lms-web-app.vercel.app/"
 }
