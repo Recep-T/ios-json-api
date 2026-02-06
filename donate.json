@@ -1,0 +1,9 @@
+{
+  "active": false,
+  "show_delay": 0,
+  "platforms": ["ios", "android"],
+  "links": {
+    "kofi": "https://ko-fi.com/receptaylanhan",
+    "paypal": "https://www.paypal.com/paypalme/receptaylanhan"
+  }
+}
