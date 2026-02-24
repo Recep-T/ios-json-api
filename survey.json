@@ -9,16 +9,16 @@
       "tr": "ISRA deneyiminiz nasıl?",
       "en": "How is your ISRA experience so far?"
     },
-    {
+   {
       "id": "q2",
       "type": "choice",
-      "tr": "Hangi özelliklerin olmasını istersiniz? (Öncelik verelim)",
-      "en": "Which features would you like us to prioritize for you?",
+      "tr": "Seni en çok hangisi memnun etti?",
+      "en": "What pleased you the most?",
       "options": [
-        "Global Azan Voices (Madinah, Egypt, etc.)",
-        "Islamic Daily Insights & Articles",
-        "Hijri Calendar & Special Days",
-        "Home Screen Prayer Widgets"
+        "Clean, Minimal & Ad-Free Design",
+        "Multiple Prayer Calculation Methods",
+        "Precise Qibla Finder",
+        "Simple & Focused Tasbih Counter"
       ]
     },
     {
