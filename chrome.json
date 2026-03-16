@@ -1,0 +1,7 @@
+{
+  "promo_codes": {
+    "WELCOME20": { "is_active": true, "plan": "Annual" },
+    "SPECIAL10": { "is_active": true, "plan": "Monthly" }
+  },
+  "blocked_emails": ["spam@example.com"]
+}
