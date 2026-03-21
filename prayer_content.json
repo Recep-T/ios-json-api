@@ -1,18 +1,45 @@
- {
+{
    "Fajr": {
      "en": {
-       "ayah": "Establish prayer at the decline of the sun...",
-       "ayah_ref": "Quran 17:78",
-       "hadith": "The two rak'ahs of Fajr are better than this world and all it contains.",
-       "hadith_ref": "Muslim 725"
+       "type": "ayah",
+       "text": "Establish prayer at the decline of the sun until the darkness of the night and the Quran of dawn. Indeed, the 
+recitation of dawn is ever witnessed.",
+       "ref": "17:78",
+       "surah": "Al-Isra"
      },
-     "tr": { "ayah": "...", "ayah_ref": "Kuran 17:78", "hadith": "...", "hadith_ref": "..." },
-     "ar": { ... },
-     "de": { ... },
-     "es": { ... }
+     "tr": {
+       "type": "ayah",
+       "text": "Güneşin batıya yönelmesinden gecenin kararmasına kadar namazı kıl; bir de sabah namazını. Çünkü sabah namazı 
+şahitlidir.",
+       "ref": "17:78",
+       "surah": "İsra Suresi"
+     },
+     "ar": {
+       "type": "ayah",
+       "text": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ 
+       "ref": "17:78",
+       "surah": "الإسراء"
+     },
+     "de": { "type": "ayah", "text": "...", "ref": "17:78", "surah": "Al-Isra" },
+     "es": { "type": "ayah", "text": "...", "ref": "17:78", "surah": "Al-Isra" }
    },
-   "Dhuhr": { ... },
-   "Asr":    { ... },
-   "Maghrib":{ ... },
-   "Isha":   { ... }
+ 
+   "Dhuhr": {
+     "en": {
+       "type": "hadith",
+       "text": "When the heat is intense, delay the Dhuhr prayer until it becomes cooler, because the severity of heat is from 
+the raging of Hell-fire.",
+       "ref": "Sahih Bukhari 533"
+     },
+     "tr": {
+       "type": "hadith",
+       "text": "Hava çok sıcak olunca öğle namazını serin vakte bırakın; zira sıcağın şiddeti cehennemin fokurdamasındandır.",
+       "ref": "Sahih Buhari 533"
+     }
+     ...
+   },
+ 
+   "Asr": { ... },
+   "Maghrib": { ... },
+   "Isha": { ... }
  }
