@@ -20,7 +20,7 @@
     },
     "de": {
       "type": "ayah",
-      "text": "Verrichte das Gebet beim Neigen der Sonne bis zum Dunkel der Nacht, und (lies) den Qur'an in der Morgendämmerung. Gewiß, (die Lesung) des Qur'ans in der Morgendämmerung wird (von den Engeln) bezeugt.",
+      "text": "Verrichte das Gebet beim Neigen der Sonne bis zum Dunkel der Nacht, und (lies) den Qur'an in der Morgendämmerung. Gewiß, (die Lesung) des Qur'ans in der Morgendämmerung wird bezeugt.",
       "ref": "17:78",
       "surah": "Al-Isra"
     },
@@ -52,22 +52,127 @@
     "ar": {
       "type": "hadith",
       "text": "إِذَا اشْتَدَّ الْحَرُّ فَأَبْرِدُوا بِالصَّلَاةِ، فَإِنَّ شِدَّةَ الْحَرِّ مِنْ فَيْحِ جَهَنَّمَ",
-      "ref": "صحيح البخاري ٥٣٣"
+      "ref": "صحيح البخاري"
     },
     "de": {
       "type": "hadith",
-      "text": "Wenn die Hitze intensiv ist, verschiebt das Dhuhr-Gebet, bis es kühler wird, denn die Intensität der Hitze stammt vom Toben des Höllenfeuers.",
-      "ref": "Sahih Bukhari 533"
+      "text": "Wenn die Hitze intensiv ist, verschiebt das Dhuhr-Gebet, bis es kühler wird, denn die Hitze stammt vom Toben des Höllenfeuers.",
+      "ref": "Sahih Bukhari"
     },
     "es": {
       "type": "hadith",
       "text": "Cuando el calor sea intenso, retrasad la oración del Dhuhr hasta que refresque, porque la severidad del calor proviene del fragor del fuego del Infierno.",
-      "ref": "Sahih Bukhari 533"
+      "ref": "Sahih Bukhari"
     },
     "kg": {
       "type": "hadith",
       "text": "Аба ырайы өтө ысык болгондо, бешим намазын салкындаганча кечиктириңиздер. Анткени аптаптын катуулугу тозоктун деминен.",
-      "ref": "Сахих Бухари 533"
+      "ref": "Сахих Бухари"
+    }
+  },
+
+  "Asr": {
+    "en": {
+      "type": "ayah",
+      "text": "Maintain with care the [obligatory] prayers and [in particular] the middle prayer and stand before Allah, devoutly obedient.",
+      "ref": "2:238",
+      "surah": "Al-Baqarah"
+    },
+    "tr": {
+      "type": "ayah",
+      "text": "Namazlara ve orta namaza (ikindiye) devam edin; Allah'ın huzurunda boyun bükerek saygıyla durun.",
+      "ref": "2:238",
+      "surah": "Bakara Suresi"
+    },
+    "ar": {
+      "type": "ayah",
+      "text": "حَافِظُوا عَلَى الصَّلَوَاتِ وَالصَّلَاةِ الْوُسْطَىٰ وَقُومُوا لِلَّهِ قَانِتِينَ",
+      "ref": "2:238",
+      "surah": "البقرة"
+    },
+    "de": {
+      "type": "ayah",
+      "text": "Haltet die Gebete ein, und (besonders) das mittlere Gebet, und steht demütig ergeben vor Allah.",
+      "ref": "2:238",
+      "surah": "Al-Baqarah"
+    },
+    "es": {
+      "type": "ayah",
+      "text": "Sed constantes en las oraciones y en la oración intermedia, y permaneced con devoción ante Alá.",
+      "ref": "2:238",
+      "surah": "Al-Baqarah"
+    },
+    "kg": {
+      "type": "ayah",
+      "text": "Намаздарга жана ортоңку намазга бекем болгула. Аллахтын алдында чын ыкластан моюн сунуп тургула.",
+      "ref": "2:238",
+      "surah": "Бакара сүрөөсү"
+    }
+  },
+
+  "Maghrib": {
+    "en": {
+      "type": "hadith",
+      "text": "My Ummah will continue to be upon the Fitrah as long as they do not delay Maghrib until the stars appear.",
+      "ref": "Ahmad 4/147"
+    },
+    "tr": {
+      "type": "hadith",
+      "text": "Ümmetim, akşam namazını kılmak için yıldızların görünmesini beklemedikleri sürece fıtrat üzere kalmaya devam edecektir.",
+      "ref": "Ahmed b. Hanbel"
+    },
+    "ar": {
+      "type": "hadith",
+      "text": "لا تزال أمتي على الفطرة ما لم يؤخروا المغرب حتى تشتبك النجوم",
+      "ref": "مسند أحمد"
+    },
+    "de": {
+      "type": "hadith",
+      "text": "Meine Ummah wird weiterhin auf der Fitrah sein, solange sie das Maghrib-Gebet nicht hinauszögern, bis die Sterne erscheinen.",
+      "ref": "Ahmad"
+    },
+    "es": {
+      "type": "hadith",
+      "text": "Mi Ummah seguirá en la Fitrah mientras no retrasen la oración del Maghrib hasta que aparezcan las estrellas.",
+      "ref": "Ahmad"
+    },
+    "kg": {
+      "type": "hadith",
+      "text": "Үммөтүм шам намазын жылдыздар чыкканга чейин кечиктирбесе, фитратта (туура жолдо) боло берет.",
+      "ref": "Ахмад"
+    }
+  },
+
+  "Isha": {
+    "en": {
+      "type": "hadith",
+      "text": "He who prays Isha in congregation, it is as if he has prayed half the night.",
+      "ref": "Sahih Muslim 656"
+    },
+    "tr": {
+      "type": "hadith",
+      "text": "Yatsı namazını cemaatle kılan kimse, gecenin yarısını namazla geçirmiş gibidir.",
+      "ref": "Müslim, Mesâcid 260"
+    },
+    "ar": {
+      "type": "hadith",
+      "text": "مَنْ صَلَّى الْعِشَاءَ فِي جَمَاعَةٍ فَكَأَنَّمَا قَامَ نِصْفَ اللَّيْلِ",
+      "ref": "صحيح مسلم"
+    },
+    "de": {
+      "type": "hadith",
+      "text": "Wer das Isha-Gebet in der Gemeinschaft verrichtet, für den ist es so, als hätte er die halbe Nacht im Gebet verbracht.",
+      "ref": "Sahih Muslim"
+    },
+    "es": {
+      "type": "hadith",
+      "text": "Quien rece el Isha en congregación, es como si hubiera rezado la mitad de la noche.",
+      "ref": "Sahih Muslim"
+    },
+    "kg": {
+      "type": "hadith",
+      "text": "Ким куптан намазын жамаат менен окуса, ал түндүн жарымын ибадат менен өткөргөндөй болот.",
+      "ref": "Сахих Муслим"
     }
   }
 }
