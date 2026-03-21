@@ -1,45 +1,73 @@
 {
-   "Fajr": {
-     "en": {
-       "type": "ayah",
-       "text": "Establish prayer at the decline of the sun until the darkness of the night and the Quran of dawn. Indeed, the 
-recitation of dawn is ever witnessed.",
-       "ref": "17:78",
-       "surah": "Al-Isra"
-     },
-     "tr": {
-       "type": "ayah",
-       "text": "Güneşin batıya yönelmesinden gecenin kararmasına kadar namazı kıl; bir de sabah namazını. Çünkü sabah namazı 
-şahitlidir.",
-       "ref": "17:78",
-       "surah": "İsra Suresi"
-     },
-     "ar": {
-       "type": "ayah",
-       "text": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ 
-       "ref": "17:78",
-       "surah": "الإسراء"
-     },
-     "de": { "type": "ayah", "text": "...", "ref": "17:78", "surah": "Al-Isra" },
-     "es": { "type": "ayah", "text": "...", "ref": "17:78", "surah": "Al-Isra" }
-   },
- 
-   "Dhuhr": {
-     "en": {
-       "type": "hadith",
-       "text": "When the heat is intense, delay the Dhuhr prayer until it becomes cooler, because the severity of heat is from 
-the raging of Hell-fire.",
-       "ref": "Sahih Bukhari 533"
-     },
-     "tr": {
-       "type": "hadith",
-       "text": "Hava çok sıcak olunca öğle namazını serin vakte bırakın; zira sıcağın şiddeti cehennemin fokurdamasındandır.",
-       "ref": "Sahih Buhari 533"
-     }
-     ...
-   },
- 
-   "Asr": { ... },
-   "Maghrib": { ... },
-   "Isha": { ... }
- }
+  "Fajr": {
+    "en": {
+      "type": "ayah",
+      "text": "Establish prayer at the decline of the sun until the darkness of the night and the Quran of dawn. Indeed, the recitation of dawn is ever witnessed.",
+      "ref": "17:78",
+      "surah": "Al-Isra"
+    },
+    "tr": {
+      "type": "ayah",
+      "text": "Güneşin batıya yönelmesinden gecenin kararmasına kadar namazı kıl; bir de sabah namazını. Çünkü sabah namazı şahitlidir.",
+      "ref": "17:78",
+      "surah": "İsra Suresi"
+    },
+    "ar": {
+      "type": "ayah",
+      "text": "أَقِمِ الصَّلَاةَ لِدُلُوكِ الشَّمْسِ إِلَىٰ غَسَقِ اللَّيْلِ وَقُرْآنَ الْفَجْرِ ۖ إِنَّ قُرْآنَ الْفَجْرِ كَانَ مَشْهُودًا",
+      "ref": "17:78",
+      "surah": "الإسراء"
+    },
+    "de": {
+      "type": "ayah",
+      "text": "Verrichte das Gebet beim Neigen der Sonne bis zum Dunkel der Nacht, und (lies) den Qur'an in der Morgendämmerung. Gewiß, (die Lesung) des Qur'ans in der Morgendämmerung wird (von den Engeln) bezeugt.",
+      "ref": "17:78",
+      "surah": "Al-Isra"
+    },
+    "es": {
+      "type": "ayah",
+      "text": "Realiza la oración desde el declive del sol hasta la oscuridad de la noche, y la recitación del alba. Ciertamente, la recitación del alba es atestiguada.",
+      "ref": "17:78",
+      "surah": "Al-Isra"
+    },
+    "kg": {
+      "type": "ayah",
+      "text": "Күн батышка оогондон баштап, түндүн караңгылыгына чейин намаз оку. Ошондой эле таңкы намазды да оку. Анткени таңкы намазга периштелер күбө болушат.",
+      "ref": "17:78",
+      "surah": "Аль-Исра сүрөөсү"
+    }
+  },
+
+  "Dhuhr": {
+    "en": {
+      "type": "hadith",
+      "text": "When the heat is intense, delay the Dhuhr prayer until it becomes cooler, because the severity of heat is from the raging of Hell-fire.",
+      "ref": "Sahih Bukhari 533"
+    },
+    "tr": {
+      "type": "hadith",
+      "text": "Hava çok sıcak olunca öğle namazını serin vakte bırakın; zira sıcağın şiddeti cehennemin fokurdamasındandır.",
+      "ref": "Sahih Buhari 533"
+    },
+    "ar": {
+      "type": "hadith",
+      "text": "إِذَا اشْتَدَّ الْحَرُّ فَأَبْرِدُوا بِالصَّلَاةِ، فَإِنَّ شِدَّةَ الْحَرِّ مِنْ فَيْحِ جَهَنَّمَ",
+      "ref": "صحيح البخاري ٥٣٣"
+    },
+    "de": {
+      "type": "hadith",
+      "text": "Wenn die Hitze intensiv ist, verschiebt das Dhuhr-Gebet, bis es kühler wird, denn die Intensität der Hitze stammt vom Toben des Höllenfeuers.",
+      "ref": "Sahih Bukhari 533"
+    },
+    "es": {
+      "type": "hadith",
+      "text": "Cuando el calor sea intenso, retrasad la oración del Dhuhr hasta que refresque, porque la severidad del calor proviene del fragor del fuego del Infierno.",
+      "ref": "Sahih Bukhari 533"
+    },
+    "kg": {
+      "type": "hadith",
+      "text": "Аба ырайы өтө ысык болгондо, бешим намазын салкындаганча кечиктириңиздер. Анткени аптаптын катуулугу тозоктун деминен.",
+      "ref": "Сахих Бухари 533"
+    }
+  }
+}
