@@ -1,0 +1,18 @@
+ {
+   "Fajr": {
+     "en": {
+       "ayah": "Establish prayer at the decline of the sun...",
+       "ayah_ref": "Quran 17:78",
+       "hadith": "The two rak'ahs of Fajr are better than this world and all it contains.",
+       "hadith_ref": "Muslim 725"
+     },
+     "tr": { "ayah": "...", "ayah_ref": "Kuran 17:78", "hadith": "...", "hadith_ref": "..." },
+     "ar": { ... },
+     "de": { ... },
+     "es": { ... }
+   },
+   "Dhuhr": { ... },
+   "Asr":    { ... },
+   "Maghrib":{ ... },
+   "Isha":   { ... }
+ }
