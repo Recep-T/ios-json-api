@@ -1,1 +1,26 @@
-
+[
+  {
+    "id": 1,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/sahaba/abu_bakr.jpg",
+    "bio_en": "The first Caliph and closest companion of Prophet Muhammad (pbuh). Known for his truthfulness and leadership.",
+    "bio_tr": "İlk halife ve Peygamberimizin en yakın dostu. Doğruluğu ve liderliğiyle bilinir."
+  },
+  {
+    "id": 2,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/sahaba/umar.jpg",
+    "bio_en": "The second Caliph, known for his justice and strength.",
+    "bio_tr": "İkinci halife, adaleti ve gücüyle bilinir."
+  },
+  {
+    "id": 3,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/sahaba/uthman.jpg",
+    "bio_en": "The third Caliph, known for his generosity and modesty.",
+    "bio_tr": "Üçüncü halife, cömertliği ve tevazusuyla bilinir."
+  },
+  {
+    "id": 4,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/sahaba/ali.jpg",
+    "bio_en": "The fourth Caliph, known for his knowledge and bravery.",
+    "bio_tr": "Dördüncü halife, ilmi ve cesaretiyle bilinir."
+  }
+]
