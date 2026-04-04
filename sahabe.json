@@ -1,26 +1,44 @@
 [
   {
     "id": 1,
-    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/sahaba/abu_bakr.jpg",
-    "bio_en": "The first Caliph and closest companion of Prophet Muhammad (pbuh). Known for his truthfulness and leadership.",
-    "bio_tr": "İlk halife ve Peygamberimizin en yakın dostu. Doğruluğu ve liderliğiyle bilinir."
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/img2.jpg",
+    "bio_en": "Example English bio for Sahabe 1.",
+    "bio_tr": "Sahabe 1 için örnek Türkçe biyografi."
   },
   {
     "id": 2,
-    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/sahaba/umar.jpg",
-    "bio_en": "The second Caliph, known for his justice and strength.",
-    "bio_tr": "İkinci halife, adaleti ve gücüyle bilinir."
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/img3.jpg",
+    "bio_en": "Example English bio for Sahabe 2.",
+    "bio_tr": "Sahabe 2 için örnek Türkçe biyografi."
   },
   {
     "id": 3,
-    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/sahaba/uthman.jpg",
-    "bio_en": "The third Caliph, known for his generosity and modesty.",
-    "bio_tr": "Üçüncü halife, cömertliği ve tevazusuyla bilinir."
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/img1.jpg",
+    "bio_en": "Example English bio for Sahabe 3.",
+    "bio_tr": "Sahabe 3 için örnek Türkçe biyografi."
   },
   {
     "id": 4,
-    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/sahaba/ali.jpg",
-    "bio_en": "The fourth Caliph, known for his knowledge and bravery.",
-    "bio_tr": "Dördüncü halife, ilmi ve cesaretiyle bilinir."
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/img2.jpg",
+    "bio_en": "Example English bio for Sahabe 4.",
+    "bio_tr": "Sahabe 4 için örnek Türkçe biyografi."
+  },
+  {
+    "id": 5,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/imgage2.jpg",
+    "bio_en": "Example English bio for Sahabe 5.",
+    "bio_tr": "Sahabe 5 için örnek Türkçe biyografi."
+  },
+  {
+    "id": 6,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/imgage3.jpg",
+    "bio_en": "Example English bio for Sahabe 6.",
+    "bio_tr": "Sahabe 6 için örnek Türkçe biyografi."
+  },
+  {
+    "id": 7,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/imgage1.jpg",
+    "bio_en": "Example English bio for Sahabe 7.",
+    "bio_tr": "Sahabe 7 için örnek Türkçe biyografi."
   }
 ]
