@@ -1,5 +1,5 @@
 {
-  "active": true,
+  "active": false,
   "survey_id": "isra_roadmap_v1",
   "show_delay": 7000,
   "questions": [
