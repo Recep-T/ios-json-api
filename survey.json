@@ -1,24 +1,26 @@
 {
-  "active": false,
-  "survey_id": "isra_roadmap_v1",
+  "active": true,
+  "survey_id": "isra_roadmap_v2",
   "show_delay": 7000,
   "questions": [
     {
       "id": "q1",
       "type": "stars",
-      "tr": "ISRA deneyiminiz nasıl?",
-      "en": "How is your ISRA experience so far?"
+      "tr": "Merhaba, ben Recep, Isra App’i yapan mühendisim. Bu uygulama sizler için %100 reklamsızdır, dolayısıyla sizin desteğinize ihtiyacım var. Bu destekler, uygulamamızın daha çok kişiye ulaşması için pazarlama ve reklam çalışmalarında kullanılacaktır. Bu anket hem deneyiminizi ölçmemi sağlayacak hem de sonunda isterseniz Buy Me a Coffee veya PayPal ile destek olmanıza olanak tanıyacaktır. Teşekkürler! \n\nŞu ana kadar Isra deneyiminiz nasıl?",
+      "en": "Hi, I'm Recep, the engineer who built Isra App. This app is 100% ad-free for you, so I really need your support. Your contributions will be used for marketing and promotion to help the app reach more people. This survey helps me understand your experience and, if you'd like, you can support the project via Buy Me a Coffee or PayPal at the end. Thank you! \n\nHow is your Isra experience so far?"
     },
-   {
+    {
       "id": "q2",
       "type": "choice",
       "tr": "Seni en çok hangisi memnun etti?",
       "en": "What pleased you the most?",
       "options": [
-        "Clean, Minimal & Ad-Free Design",
-        "Multiple Prayer Calculation Methods",
-        "Precise Qibla Finder",
-        "Simple & Focused Tasbih Counter"
+        "Ad-Free Design",
+        "Quran",
+        "Qibla Finder",
+        "Adhan Notifications & Reminders",
+        "Halal Food/Places Finder",
+        "Nearby Masjids"
       ]
     },
     {
