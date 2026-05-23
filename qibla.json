@@ -1,5 +1,7 @@
 {
   "isInternalQiblaEnabled": true,
   "maintenanceMessage": "ISRA Compass is under maintenance, please use Google Finder.",
-  "minVersionRequired": "1.4.2"
+  "minVersionRequired": "1.4.2",
+  "darkModeEnabled": false
+}
 }
