@@ -1,10 +1,14 @@
-
 {
   "partners": [
     {
       "id": "partner-qualitamart-cherry-hill",
       "name": "QualitaMart",
       "address": "2060 Springdale Rd Unit 500, Cherry Hill, NJ 08003"
+    },
+    {
+      "id": "partner-test-market-nj",
+      "name": "Test Market",
+      "address": "1 Main St, Newark, NJ 07102"
     }
   ]
 }
