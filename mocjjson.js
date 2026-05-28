@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 2,
     "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/eid.jpg",
     "theme_tr": "ISRA PRO APP",
     "theme_en": "ISRA PRO APP",
