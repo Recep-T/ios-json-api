@@ -1,1 +1,10 @@
+{
+  "active": true,
+  "message_tr": "Bakım çalışması nedeniyle namaz vakitleri geçici olarak gecikebilir. Anlayışınız için teşekkürler.",
+  "message_en": "Prayer times may be temporarily delayed due to maintenance. Thank you for your patience.",
+  "message_de": "Gebetszeiten können wegen Wartungsarbeiten vorübergehend verzögert sein.",
+  "message_es": "Los tiempos de oración pueden retrasarse temporalmente por mantenimiento.",
+  "message_kg": "Тейлөө иштеринен улам намаз убактылары убактылуу кечигиши мүмкүн.",
+  "link": "https://isra-deeplink.vercel.app"
+}
 
