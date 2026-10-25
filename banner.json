@@ -1,8 +1,8 @@
 {
   "active": true,
-  "message_tr": "Avrupa saat değişimi nedeniyle vakitler farklı görünebilir. Geri bildirim: taylanhanr@gmail.com 🤍",
-  "message_en": "Prayer times may differ due to the European time change. Feedback: taylanhanr@gmail.com 🤍",
-  "message_de": "Gebetszeiten können wegen der Zeitumstellung abweichen. Feedback: taylanhanr@gmail.com 🤍",
-  "message_es": "Los tiempos de oración pueden variar por el cambio de hora. Feedback: taylanhanr@gmail.com 🤍",
-  "message_kg": "Убакыт өзгөрүүсүнөн намаз убактылары айырмаланышы мүмкүн. Пикир: taylanhanr@gmail.com 🤍"
+  "message_tr": "Saat değişimi nedeniyle vakitler farklı olabilir. Geri bildirim: taylanhanr@gmail.com",
+  "message_en": "Times may differ due to the clock change. Feedback: taylanhanr@gmail.com",
+  "message_de": "Zeiten können wegen der Zeitumstellung abweichen. Feedback: taylanhanr@gmail.com",
+  "message_es": "Los horarios pueden variar por el cambio de hora. Feedback: taylanhanr@gmail.com",
+  "message_kg": "Убакыт өзгөрүүсүнөн убактылар айырмаланышы мүмкүн. Пикир: taylanhanr@gmail.com"
 }
