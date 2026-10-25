@@ -1,8 +1,8 @@
 {
   "active": true,
-  "message_tr": "Değerli ISRA Pro kullanıcıları, bugünkü Avrupa saat değişiminden dolayı namaz vakitlerini farklı görürseniz lütfen taylanhanr@gmail.com adresine geri bildirim gönderin. Çok seviniriz. Teşekkürler 🤍",
-  "message_en": "Dear ISRA Pro users, if you notice different prayer times today due to the European time change, please send feedback to taylanhanr@gmail.com — we'd really appreciate it. Thank you 🤍",
-  "message_de": "Liebe ISRA Pro Nutzer, falls ihr heute wegen der europäischen Zeitumstellung abweichende Gebetszeiten seht, sendet bitte euer Feedback an taylanhanr@gmail.com — wir freuen uns sehr. Danke 🤍",
-  "message_es": "Estimados usuarios de ISRA Pro, si hoy ven tiempos de oración diferentes debido al cambio de hora europeo, por favor envíen sus comentarios a taylanhanr@gmail.com — se lo agradeceríamos mucho. Gracias 🤍",
-  "message_kg": "Урматтуу ISRA Pro колдонуучулары, эгер бүгүн Европадагы убакыт өзгөрүүсүнөн улам намаз убактыларын башкача көрсөңүз, taylanhanr@gmail.com дарегине пикириңизди жөнөтүңүз. Абдан ыраазы болобуз. Рахмат 🤍"
+  "message_tr": "Avrupa saat değişimi nedeniyle vakitler farklı görünebilir. Geri bildirim: taylanhanr@gmail.com 🤍",
+  "message_en": "Prayer times may differ due to the European time change. Feedback: taylanhanr@gmail.com 🤍",
+  "message_de": "Gebetszeiten können wegen der Zeitumstellung abweichen. Feedback: taylanhanr@gmail.com 🤍",
+  "message_es": "Los tiempos de oración pueden variar por el cambio de hora. Feedback: taylanhanr@gmail.com 🤍",
+  "message_kg": "Убакыт өзгөрүүсүнөн намаз убактылары айырмаланышы мүмкүн. Пикир: taylanhanr@gmail.com 🤍"
 }
