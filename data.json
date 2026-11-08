@@ -22,7 +22,7 @@
     "long_de": "Allah genügt uns, und Er ist der beste Verwalter der Angelegenheiten. Was für ein ausgezeichneter Beschützer und Helfer.",
     "long_es": "Alá nos basta, y Él es el mejor Dispositor de los asuntos. Qué excelente Protector y Ayudador.",
     "long_kg": "Аллах бизге жетиштүү, Ошол эң жакшы Өкүл. Ал кандай сонун Дос жана кандай сонун Жардамчы.",
-    "button_enabled": true,
+    "button_enabled": false,
     "button_url": "https://ko-fi.com/receptaylanhan",
     "button_label_tr": "Bağış yap",
     "button_label_en": "Donate",
