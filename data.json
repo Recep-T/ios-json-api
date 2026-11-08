@@ -22,6 +22,7 @@
     "long_de": "Allah genügt uns, und Er ist der beste Verwalter der Angelegenheiten. Was für ein ausgezeichneter Beschützer und Helfer.",
     "long_es": "Alá nos basta, y Él es el mejor Dispositor de los asuntos. Qué excelente Protector y Ayudador.",
     "long_kg": "Аллах бизге жетиштүү, Ошол эң жакшы Өкүл. Ал кандай сонун Дос жана кандай сонун Жардамчы.",
+    "button_enabled": false,
     "button_url": "https://ko-fi.com/receptaylanhan",
     "button_label_tr": "Bağış yap",
     "button_label_en": "Donate",
@@ -51,7 +52,8 @@
     "long_en": "In the name of Allah, with Whose name nothing on earth or in the heaven can cause any harm. He is the All-Hearing, All-Knowing.",
     "long_de": "Im Namen Allahs, mit dessen Namen nichts auf der Erde oder im Himmel Schaden anrichten kann. Er ist der Allhörende, der Allwissende.",
     "long_es": "En el nombre de Alá, con Cuyo nombre nada en la tierra ni en el cielo puede causar daño alguno. Él es el que todo lo oye, el que todo lo sabe.",
-    "long_kg": "Аллахтын ысымы менен, Анын ысымы менен жерде жана асманда эч нерсе зыян келтире албайт. Ал – Угуучу, Билүүчү."
+    "long_kg": "Аллахтын ысымы менен, Анын ысымы менен жерде жана асманда эч нерсе зыян келтире албайт. Ал – Угуучу, Билүүчү.",
+    "button_enabled": false
   },
   {
     "id": 3,
@@ -75,7 +77,8 @@
     "long_en": "Our Lord, give us in this world that which is good and in the Hereafter that which is good and protect us from the punishment of the Fire.",
     "long_de": "Unser Herr, gib uns in dieser Welt Gutes und im Jenseits Gutes und bewahre uns vor der Strafe des Feuers.",
     "long_es": "Señor nuestro, danos lo bueno en este mundo y lo bueno en el otro, y líbranos del tormento del Fuego.",
-    "long_kg": "Раббыбыз! Бизге бул дүйнөдө да жакшылык бер, акыретте да жакшылык бер. Бизди тозок отунун азабынан сакта."
+    "long_kg": "Раббыбыз! Бизге бул дүйнөдө да жакшылык бер, акыретте да жакшылык бер. Бизди тозок отунун азабынан сакта.",
+    "button_enabled": false
   },
   {
     "id": 4,
@@ -99,7 +102,8 @@
     "long_en": "Our Lord, forgive me and my parents and the believers on the Day the account is established.",
     "long_de": "Unser Herr, vergib mir und meinen Eltern und den Gläubigen an dem Tag, an dem die Abrechnung stattfindet.",
     "long_es": "Señor nuestro, perdóname a mí, a mis padres y a los creyentes el día en que se rinda cuenta.",
-    "long_kg": "Раббыбыз! Эсеп бериле турган күнү мени, ата-энемди жана момундарды кечир."
+    "long_kg": "Раббыбыз! Эсеп бериле турган күнү мени, ата-энемди жана момундарды кечир.",
+    "button_enabled": false
   },
   {
     "id": 5,
@@ -123,7 +127,8 @@
     "long_en": "O Allah, You are my Lord, none has the right to be worshipped except You. You created me and I am Your servant, I abide by Your covenant.",
     "long_de": "O Allah, Du bist mein Herr, es gibt keinen Gott außer Dir. Du hast mich erschaffen und ich bin Dein Diener.",
     "long_es": "Oh Alá, Tú eres mi Señor, no hay más dios que Tú. Tú me creaste y yo soy Tu siervo.",
-    "long_kg": "Аллахым! Сен менин Раббымсың, Сенден башка илах жок. Мени Сен жараттың. Мен Сенин кулуңмун жана күчүм жетишинче Сага берген убадама бекеммин."
+    "long_kg": "Аллахым! Сен менин Раббымсың, Сенден башка илах жок. Мени Сен жараттың. Мен Сенин кулуңмун жана күчүм жетишинче Сага берген убадама бекеммин.",
+    "button_enabled": false
   },
   {
     "id": 6,
@@ -147,7 +152,8 @@
     "long_en": "O Allah, I ask You for sound faith, faith adorned with good character, and success followed by salvation.",
     "long_de": "O Allah, ich bitte Dich um gesunden Glauben, um Glauben, der mit gutem Charakter geschmückt ist, und um Erfolg.",
     "long_es": "Oh Alá, Te pido una fe sana, una fe adornada con buen carácter y el éxito seguido de la salvación.",
-    "long_kg": "Аллахым! Сенден ыйманда бекемдикти, көркөм адеп менен кооздолгон ыйманды жана артынан кутулуу келе турган ийгиликти сурайм."
+    "long_kg": "Аллахым! Сенден ыйманда бекемдикти, көркөм адеп менен кооздолгон ыйманды жана артынан кутулуу келе турган ийгиликти сурайм.",
+    "button_enabled": false
   },
   {
     "id": 7,
@@ -171,6 +177,7 @@
     "long_en": "O Allah, make faith beloved to us and beautify it in our hearts. Make disbelief and disobedience hateful to us.",
     "long_de": "O Allah, mache uns den Glauben lieb und verschönere ihn in unseren Herzen. Mache uns Unglauben und Ungehorsam verhasst.",
     "long_es": "Oh Alá, haz que la fe sea amada por nosotros y embellecela en nuestros corazones. Haz que la incredulidad nos sea odiosa.",
-    "long_kg": "Аллахым! Ыйманды бизге сүйдүр жана аны жүрөктөрүбүздө кооздо. Күпүрлүктү жана баш ийбөөчүлүктү бизге жагымсыз көрсөт."
+    "long_kg": "Аллахым! Ыйманды бизге сүйдүр жана аны жүрөктөрүбүздө кооздо. Күпүрлүктү жана баш ийбөөчүлүктү бизге жагымсыз көрсөт.",
+    "button_enabled": false
   }
 ]
