@@ -53,6 +53,8 @@
         "long_de": "Die ISRA-App unterstützt die nächsten Generationen.",
         "long_es": "La app ISRA apoya a las próximas generaciones.",
         "long_kg": "ISRA колдонмосу кийинки муундарды колдойт.",
+        "image_only": true,
+        "image_aspect": 3,
         "button_enabled": true,
         "button_url": "https://www.zeffy.com/en-US/donation-form/donate-to-enver-academy-homeschool",
         "button_label_tr": "Bağış",
