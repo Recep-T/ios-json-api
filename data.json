@@ -179,5 +179,30 @@
     "long_es": "Oh Alá, haz que la fe sea amada por nosotros y embellecela en nuestros corazones. Haz que la incredulidad nos sea odiosa.",
     "long_kg": "Аллахым! Ыйманды бизге сүйдүр жана аны жүрөктөрүбүздө кооздо. Күпүрлүктү жана баш ийбөөчүлүктү бизге жагымсыз көрсөт.",
     "button_enabled": false
-  }
+  },
+  {
+    "id": 9,
+    "image_url": "https://raw.githubusercontent.com/Recep-T/ios-json-api/main/src/assets/image9.jpg",
+    "title_tr": "Sadaka ve Mürşit Yetiştirme",
+    "title_en": "Charity and Nurturing Guidance",
+    "title_de": "Spende und Heranbildung von Wegweisern",
+    "title_es": "Caridad y Formación de Guías Espirituales",
+    "title_kg": "Садака жана Насаатчы Тарбиялоо",
+    "theme_tr": "İNFAK VE EĞİTİM",
+    "theme_en": "CHARITY AND EDUCATION",
+    "theme_de": "SPENDE UND BILDUNG",
+    "theme_es": "CARIDAD Y EDUCACIÓN",
+    "theme_kg": "САДАКА ЖАНА БИЛИМ",
+    "short_tr": "Allah yolunda harcayın ve toplumu manevi olarak hazırlayın.",
+    "short_en": "Spend in the way of God and prepare spiritually.",
+    "short_de": "Gebt auf dem Weg Gottes aus und bereitet euch vor.",
+    "short_es": "Gasta en el camino de Dios y prepárate espiritualmente.",
+    "short_kg": "Алла жолунда сарптагыла жана даярдык көргүлө.",
+    "long_tr": "Ey mü’minler! Düşmanlarınıza karşı bütün imkânlarınızla kuvvet hazırlayın ve caydırıcı güç olun. Allah yolunda her ne harcarsanız karşılığı size eksiksiz ödenir.",
+    "long_en": "Believers, make ready against them whatever you can of force to be a deterrent. Whatever you spend in God’s cause will be repaid to you in full.",
+    "long_de": "Ihr Gläubigen, rüstet gegen sie, was immer ihr könnt an Kampfkraft, um eine Abschreckung zu sein. Was immer ihr für die Sache Gottes ausgebt, wird euch voll erstattet.",
+    "long_es": "¡Oh creyentes! Preparaos contra ellos con toda la fuerza para ser un disuasorio. Todo lo que gastéis por la causa de Dios se os pagará íntegramente.",
+    "long_kg": "Эй момундар! Душмандарыңарга каршы куч даярдагыла. Алла жолунда эмнени сарптасаңар, толугу менен кайтарылып берилет.",
+    "button_enabled": false
+}
 ]
