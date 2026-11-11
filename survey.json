@@ -1,6 +1,6 @@
 {
   "active": false,
-  "survey_id": "isra_roadmap_v2",
+  "survey_id": "isra_roadmap_v4",
   "show_delay": 7000,
   "questions": [
     {
@@ -12,22 +12,35 @@
     {
       "id": "q2",
       "type": "choice",
-      "tr": "Seni en çok hangisi memnun etti?",
-      "en": "What pleased you the most?",
-      "options": [
-        "Ad-Free Design",
-        "Quran",
-        "Qibla Finder",
-        "Adhan Notifications & Reminders",
-        "Halal Food/Places Finder",
-        "Nearby Masjids"
-      ]
+      "tr": "Isra'yı bir arkadaşına önerir misin?",
+      "en": "Would you recommend Isra to a friend?",
+      "options": ["Definitely", "Maybe", "Not really"]
     },
     {
       "id": "q3",
+      "type": "choice",
+      "tr": "Isra'yı diğer uygulamalardan ayıran şey ne?",
+      "en": "What makes Isra different from other prayer apps for you?",
+      "options": [
+        "100% ad-free",
+        "Halal store deals",
+        "Tesbihat & daily duas",
+        "Masjid events",
+        "Simple & fast design"
+      ]
+    },
+    {
+      "id": "q4",
+      "type": "choice",
+      "tr": "Yakınında Isra indirimi sunan bir halal market veya restoran olsaydı kullanır mıydın?",
+      "en": "Would you use Isra to get discounts at halal stores and restaurants near you?",
+      "options": ["Yes, definitely", "Maybe", "No"]
+    },
+    {
+      "id": "q5",
       "type": "text",
-      "tr": "Eklemek istediğiniz başka bir şey var mı?",
-      "en": "Anything else you want to share with us?"
+      "tr": "Isra'da seni en çok zorlayan veya eksik bulduğun şey ne?",
+      "en": "What is the most frustrating or missing thing in Isra for you?"
     }
   ]
 }
